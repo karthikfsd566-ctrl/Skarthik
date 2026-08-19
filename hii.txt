@@ -1,0 +1,19 @@
+</DOCTYPE html>
+<html>
+    <head>
+        <title> simple calculator </title>
+        <style>
+            body <
+                font.family:Arial,sans.serif;
+                background.color:Lightgray:
+            >
+            h1 <
+            text.align:center;
+            color:blue;
+            >
+            calculator <
+            width:230px;
+            margin:50px auto;
+            
+        </style>
+    </head>
